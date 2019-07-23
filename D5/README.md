@@ -6,6 +6,5 @@
 *a query for the average salary for each city overall<br> 
 <br>
 **server.sql** contains: <br>
-*code to create and populate a Server table<br> 
 *a query to print out the current time on the server<br> 
 
