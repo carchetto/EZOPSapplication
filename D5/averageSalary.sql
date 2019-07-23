@@ -68,3 +68,9 @@ department_name, city, avg(salary)
 FROM employee LEFT OUTER JOIN department 
 ON dept_id = department_id
 group by dept_id;
+
+SELECT 
+city, avg(salary)
+FROM employee LEFT OUTER JOIN department 
+ON dept_id = department_id
+group by dept_id;
