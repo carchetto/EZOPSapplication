@@ -5,8 +5,8 @@ This is my application for EZOPS.<br>
 *train.csv- the titanic training data set from the website: https://www.kaggle.com/c/titanic/data<br>
 *reversedColumns.csv- the data frame with reversed columns<br>
 *alternateColumns.csv- the data frame after alternating columns were deleted<br>
-**D2** contains: <br> 
-*
+
 **D3** contains: <br> 
-*
-**D4** contains: <br> 
+*HelloWorld.java is the java file that contains the basic hello world program <br>
+
+**D5** contains: <br> 
